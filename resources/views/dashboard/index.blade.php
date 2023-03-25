@@ -9,7 +9,7 @@
 
                 <a href=" " class="btn btn-danger font-weight-bold py-3 px-6">
                     <i class="la la-plus"></i>
-                    Addssss product
+                    Add product
                 </a>
             </div>
         </div>
